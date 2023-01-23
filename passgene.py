@@ -1,6 +1,6 @@
 import time
 time.sleep(2)
-nome = input ('Qual é o seu nome? ')
+nome = input ('Qual é o seu  ')
 time.sleep(1)
 print("")
 print ('Responda as proximas perguntas só com numeros.')
